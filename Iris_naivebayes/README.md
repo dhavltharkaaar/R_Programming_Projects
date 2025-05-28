@@ -70,7 +70,7 @@ mod2 <-naiveBayes(model_scores,iris[,5])
 
 table(predict(mod1,iris[,1:4]),iris[,5])
 
-<img src = "https://github.com/dhavltharkaaar/R_Programming_Projects/blob/main/Iris_naivebayes/Markdown/07.PNG">
+<img src = "https://github.com/dhavltharkaaar/R_Programming_Projects/blob/main/Iris_naivebayes/Markdown/07.png">
 
 ### Display the confusion matrix for the predictions using the principal component score
 
